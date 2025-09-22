@@ -2,7 +2,7 @@ You are given a **JSON file** that contains:
 
 * **n**: the degree of the polynomial equation.
 * **k**: the number of points (roots/coordinates) provided.
-* **k coordinate pairs** of the form (x_i, y_i), where the y-values are to be computed using given basis (Bayesian?) values $y_1$.
+k coordinate pairs** of the form (x_i, y_i), where the y-values are to be computed using given basis (Bayesian?) values $y_1$.
 
 The relationship is:
 
