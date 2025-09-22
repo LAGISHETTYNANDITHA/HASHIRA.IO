@@ -1,0 +1,22 @@
+You are given a **JSON file** that contains:
+
+* **n**: the degree of the polynomial equation.
+* **k**: the number of points (roots/coordinates) provided.
+* **k coordinate pairs** of the form (x_i, y_i), where the y-values are to be computed using given basis (Bayesian?) values $y_1$.
+
+The relationship is:
+
+$$
+k = m + 1
+$$
+
+where $m$ is the degree of the polynomial.
+
+### Task:
+
+Write code (**not in Python**) that:
+
+1. Reads the inputs from the JSON file.
+2. Uses the given $k$ points $(x_i, y_i)$ to compute the coefficients of the polynomial of degree $n$.
+3. Determines the constant term $c$ of the polynomial.
+
